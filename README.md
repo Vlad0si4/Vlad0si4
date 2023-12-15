@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vlad
 ============================================================================================================================
+<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
 
 I am an experienced and passionate Front-End developer. I have been involved in development for the past 1 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
 
